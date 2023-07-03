@@ -12,7 +12,7 @@ long sleep_ms = 0;
 long tea_finished_counter = 0;
 
 int SLEEP_CYCLE = 500;
-int MOTOR_ON_TIME = 1500;
+int MOTOR_ON_TIME = 6000;
 
 enum states {
 	MEASURE_STATE,
